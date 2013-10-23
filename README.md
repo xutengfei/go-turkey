@@ -15,8 +15,9 @@ Since the [Project Home](https://code.google.com/p/go-thanksgiving/) was not mai
 
 ### Run
 
+```
 dev_appserver.py go-turkey
-
+```
 ## Demo
 
 [Thanksgiving 2011 Google Doodle](http://www.google.com/logos/2011/thanksgiving.html)
@@ -25,6 +26,6 @@ dev_appserver.py go-turkey
 
 Go-turkey is brought to you by Reinaldo Aguiar, a software engineer from the Search team at Google
 
-Bugs were fixed by [Hunter-X](http://www.hunter-x.com),an iOS/Android/web developer.
+Bugs were fixed by [Hunter-X](http://www.hunter-x.com),an iOS/Android/Web developer, and [contributors to the project](https://github.com/xutengfei/go-turkey/graphs/contributors)
 
 If you have feature suggestions or bug reports, feel free to help out by sending pull requests or by [creating new issues](https://github.com/xutengfei/go-turkey/issues/new).
